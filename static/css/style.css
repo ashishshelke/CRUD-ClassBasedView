@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif
+}
+h1{
+    color: rgb(180, 5, 5);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+table,th, td{
+    padding:5px 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+
+.inline{
+    display: inline;
+}
+
+
+body{
+    background-color: rgb(236, 232, 232);
+}
+
+.edit{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 13px;
+    padding: 2px 8px;
+    background-color: rgb(250, 245, 245);
+
+}
